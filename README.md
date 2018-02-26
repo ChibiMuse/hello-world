@@ -2,7 +2,7 @@
 ## My First GitHub Experience
 
 ### Introduction
-My name is Megan, and I am an aspiring Technical Writer. Using GitHub is important to unlock my __full__ potential. I look forward to learning a lot and hopefully contributing to UX writing and documentation.
+My name is Megan and I am an aspiring Technical Writer. Using GitHub is important to unlock my __full__ potential. I look forward to learning a lot and hopefully contributing to UX writing and documentation.
 
 ### Interests/Hobbies
   - Minecraft/Astroneer-like Games
@@ -22,6 +22,5 @@ My name is Megan, and I am an aspiring Technical Writer. Using GitHub is importa
 7. Javascript/Swift/Python/Fortran *(AKA:Things I dabbled in for the briefest amount of funsies with __ZERO__ retention*
 
 ### Thank you
-In conclusion, this should end the tutorial for now.
-
+While this ends the tutorial, I would be happy to hear from you if you have any sage advice, constructive criticism, or encouragment to give. Thank you! 
 
